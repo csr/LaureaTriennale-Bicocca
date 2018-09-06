@@ -7,7 +7,7 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 
 ### Programmazione 1
 * Questo corso insegna le basi della programmazione in Java (per esempio variabili, cicli, if-else, array).
-* **Easy**: più dell'80% degli studenti la trovano facile da passare al primo tentativo perchè hanno già avuto esperienza con la programmazione alle superiori. Personalmente non ho frequentato le lezioni, se sai programmare è semplice. Il professore del corso Alberto Leporati è molto bravo! 
+* **Easy**: più dell'80% lo passano al primo tentativo perchè molti di noi hanno già avuto esperienza con la programmazione alle superiori. Personalmente non ho frequentato le lezioni, se sai programmare a un buon livello è relativamente semplice. È previsto un orale (studiarsi bene: heap e stack).
 * **Tips & tricks**: i laboratori li ho trovati utili per consolidare le idee di Java chiedendo aiuto ogni tanto al professore che presidiava il laboratorio. Per passare questo tipo di esami credo sia utile fare più pratica al computer possibile sui testi degli esami passati.
 
 ### Fondamenti dell'Informatica
