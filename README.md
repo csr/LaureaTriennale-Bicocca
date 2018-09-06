@@ -44,8 +44,7 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 * Si possono dare gli esami in una delle cinque sessioni di esami: gennaio, febbraio, giugno, luglio e settembre. Per iscriversi ad un esame è necessario prenotarsi in tempo su [esse3](https://s3w.si.unimib.it/esse3/Start.do).
 * Nell'area personale [esse3](https://s3w.si.unimib.it/esse3/Start.do) è possibile fare tutte le cose "amministrative": visualizzare il proprio libretto con gli esami passati e da dare, pagare le tasse, iscriversi agli esami e ad Erasmus.
 
-# Punti deboli
-#### Risultati esami
+# Punti critici
 * Alcuni professori pubblicano i risultati degli esami anche con un mese di ritardo dalla data dell'esame oppure a poche ore prima degli esami orali.
 * Alcuni professori, in occasione di scioperi, comunicano se l'esame si terrà o meno il giorno stesso dell'esame.
 * Il Wifi dell'Ateneo non funziona bene nella maggior parte delle aule.
