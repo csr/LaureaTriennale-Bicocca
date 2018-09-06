@@ -49,3 +49,4 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 * Alcuni professori pubblicano i risultati degli esami anche con un mese di ritardo dalla data dell'esame oppure a poche ore prima degli esami orali.
 * Alcuni professori, in occasione di scioperi, comunicano se l'esame si terrà o meno il giorno stesso dell'esame.
 * Il Wifi dell'Ateneo non funziona bene nella maggior parte delle aule.
+* Alcuni corsi/laboratori sono proprio spiegati male ;) In questi casi consiglio di frequentare i primi giorni e vedere se piace, altrimenti studiare da appunti e/o frequentare le esercitazioni.
