@@ -1,19 +1,23 @@
 # I anno: Laurea Triennale in Informatica
 
 #### Perchè questa mini-guida
-Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (Laurea Triennale) all'Università degli Studi di Milano-Bicocca. Ho pensato che potesse essere utile anche ad altre matricole quindi ho deciso di pubblicarla. Studenti degli anni successivi, se volete aggiungere qualcosa siete benvenuti a contribuire creando pull request.
+Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (Laurea Triennale) all'Università degli Studi di Milano-Bicocca. Studenti degli anni successivi, se volete aggiungere qualcosa siete benvenuti a contribuire creando pull request.
 
 # Corsi
 
 ### Programmazione 1
 * Questo corso insegna le basi della programmazione in Java (per esempio variabili, cicli, if-else, array).
-* **Easy**: più dell'80% lo passano al primo tentativo perchè molti di noi hanno già avuto esperienza con la programmazione alle superiori. Personalmente non ho frequentato le lezioni, se sai programmare a un buon livello è relativamente semplice. È previsto un orale (studiarsi bene: heap e stack).
-* **Tips & tricks**: i laboratori li ho trovati utili per consolidare le idee di Java chiedendo aiuto ogni tanto al professore che presidiava il laboratorio. Per passare questo tipo di esami credo sia utile fare più pratica al computer possibile sui testi degli esami passati.
+* **Easy**: più dell'80% lo passano al primo tentativo perchè molti hanno già avuto esperienza con la programmazione alle superiori. È previsto un orale (studiarsi bene: heap e stack).
+* I laboratori li ho trovati utili per chiedere aiuto di tanto in tanto al professore che presidiava il laboratorio. Per passare questo tipo di esami credo sia utile fare più pratica al computer possibile sui testi degli esami passati.
 
 ### Fondamenti dell'Informatica
 * Questo corso insegna le basi della matematica discreta (insiemi, relazioni, funzioni, logica).
 * **Così-così**: anche se credo che la maggior parte degli studenti la passi al primo anno, non è così facile come sembra. Ci sono cose di logica che vanno capite bene, quindi credo sia bene frequentare almeno le esercitazioni.
-* **Tips & tricks**: a me non piace il libro di testo adottato "Strutture, logica, linguaggi" di Aiello perchè non lo capisco e ci sono alcuni errori di stampa. Studia su "Discrete Mathematics Using a Computer | John O'Donnell" (disponibile in biblioteca gratuitamente) e sui testi degli esami passati.
+* A me non piace il libro di testo adottato "Strutture, logica, linguaggi" di Aiello perchè non lo capisco e ci sono alcuni errori di stampa. Studia su "Discrete Mathematics Using a Computer | John O'Donnell" (disponibile in biblioteca gratuitamente) e sui testi degli esami passati.
+
+### Analisi 1
+* Questo corso insegna Analisi Matematica 1 (insiemi, funzioni, limiti, derivate, integrali).
+* **Hard**: secondo me uno dei più difficili del primo anno, meno della metà degli studenti secondo me riesce a passarlo il primo anno. Studiare tanto e fare taaaanti esercizi :)
 
 # Tips
 
