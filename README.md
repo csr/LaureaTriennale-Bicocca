@@ -18,6 +18,7 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 ### Analisi 1
 * Questo corso insegna Analisi Matematica 1 (insiemi, funzioni, limiti, derivate, integrali).
 * **Hard**: secondo me uno dei più difficili del primo anno, meno della metà degli studenti secondo me riesce a passarlo il primo anno. Studiare tanto e fare taaaanti esercizi :)
+* Testi consigliati: evitare il libro adottato dal corso di Pearson e studiare sugli ottimi libri di Marco Bramanti (molti studenti che conosco hanno passato così): PreCalculus, Analisi Matematica 1 e Esercitazioni di Matematica 1 (tutti disponibili gratuitamente in biblioteca ;)
 
 # Tips
 
