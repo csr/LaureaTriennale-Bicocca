@@ -1,14 +1,19 @@
 # I anno: Laurea Triennale in Informatica
 
 #### Perchè questa mini-guida
-Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (Laurea Triennale) all'Università degli Studi di Milano-Bicocca. Ho pensato che potesse essere utile anche ad altre matricole quindi ho deciso di pubblicarla. Studenti degli anni successivi, se avete altri consigli siete benvenuti a contribuire creando pull request.
+Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (Laurea Triennale) all'Università degli Studi di Milano-Bicocca. Ho pensato che potesse essere utile anche ad altre matricole quindi ho deciso di pubblicarla. Studenti degli anni successivi, se volete aggiungere qualcosa siete benvenuti a contribuire creando pull request :)
 
 # Corsi
 
 ### Programmazione 1
-* Il corso di Programmazione 1 insegna le basi della programmazione in Java.
+* **Insegnamenti** il corso di Programmazione 1 insegna le basi della programmazione in Java (es. variabili, cicli, if-else).
 * **Difficoltà**: più dell'80% degli studenti la trovano facile da passare al primo tentativo perchè hanno già avuto esperienza con la programmazione alle superiori. Personalmente non ho frequentato le lezioni, se sai programmare è semplice. Il professore del corso Alberto Leporati è molto bravo! 
-* **Tips & tricks**: I laboratori li ho trovati molto utili per consolidare le idee di Java e il libro è fatto bene.
+* **Tips & tricks**: i laboratori li ho trovati molto utili per consolidare le idee di Java e il libro è fatto bene.
+
+### Fondamenti dell'Informatica
+* Questo corso insegna le basi della matematica discreta (insiemi, relazioni, )
+* **Tips & tricks**: credo che alla maggior parte degli studenti non piace il libro di testo adottato "Strutture, logica, linguaggi" di Aiello perchè lo reputa incomprensibile e pieno di errori. 
+* Il mio consiglio è quello di utilizzare il libro "Discrete Mathematics Using a Computer | John O'Donnell" disponibile in biblioteca gratuitamente. Non avendo frequentato il primo semestre, grazie a quel libro finalmente sono riuscito ad apprezzare la materia.
 
 # Tips
 
