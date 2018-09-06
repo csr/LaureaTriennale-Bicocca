@@ -1,14 +1,14 @@
 # I anno: Laurea Triennale in Informatica
 
 #### Perchè questa mini-guida
-Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (Laurea Triennale) all'Università degli Studi di Milano-Bicocca. Ho pensato che potesse essere utile anche ad altre matricole quindi ho deciso di pubblicarla. Studenti degli anni successivi, se volete aggiungere qualcosa siete benvenuti a contribuire creando pull request :)
+Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (Laurea Triennale) all'Università degli Studi di Milano-Bicocca. Ho pensato che potesse essere utile anche ad altre matricole quindi ho deciso di pubblicarla. Studenti degli anni successivi, se volete aggiungere qualcosa siete benvenuti a contribuire creando pull request.
 
 # Corsi
 
 ### Programmazione 1
-* **Insegnamenti** il corso di Programmazione 1 insegna le basi della programmazione in Java (es. variabili, cicli, if-else).
+* **Insegnamenti**: il corso di Programmazione 1 insegna le basi della programmazione in Java (es. variabili, cicli, if-else).
 * **Difficoltà**: più dell'80% degli studenti la trovano facile da passare al primo tentativo perchè hanno già avuto esperienza con la programmazione alle superiori. Personalmente non ho frequentato le lezioni, se sai programmare è semplice. Il professore del corso Alberto Leporati è molto bravo! 
-* **Tips & tricks**: i laboratori li ho trovati molto utili per consolidare le idee di Java e il libro è fatto bene.
+* **Tips & tricks**: i laboratori li ho trovati utili per consolidare le idee di Java chiedendo aiuto ogni tanto al professore che presidiava il laboratorio. Il libro è fatto molto bene.
 
 ### Fondamenti dell'Informatica
 * Questo corso insegna le basi della matematica discreta (insiemi, relazioni, )
