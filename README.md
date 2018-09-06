@@ -7,7 +7,7 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 
 ### Programmazione 1
 * Il corso di Programmazione 1 insegna le basi della programmazione in Java.
-* **Difficoltà**: più dell'80% degli studenti la trovano facile da passare al primo tentativo perchè ha già avuto esperienza con la programmazione alle superiori. Personalmente non ho frequentato le lezioni, se sai programmare è semplice. Il professore del corso Alberto Leporati è molto bravo! 
+* **Difficoltà**: più dell'80% degli studenti la trovano facile da passare al primo tentativo perchè hanno già avuto esperienza con la programmazione alle superiori. Personalmente non ho frequentato le lezioni, se sai programmare è semplice. Il professore del corso Alberto Leporati è molto bravo! 
 * **Tips & tricks**: I laboratori li ho trovati molto utili per consolidare le idee di Java e il libro è fatto bene.
 
 # Tips
