@@ -7,13 +7,13 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 
 ### Programmazione 1
 * Questo corso insegna le basi della programmazione in Java (per esempio variabili, cicli, if-else, array).
-* **Difficoltà**: più dell'80% degli studenti la trovano facile da passare al primo tentativo perchè hanno già avuto esperienza con la programmazione alle superiori. Personalmente non ho frequentato le lezioni, se sai programmare è semplice. Il professore del corso Alberto Leporati è molto bravo! 
+* **Easy**: più dell'80% degli studenti la trovano facile da passare al primo tentativo perchè hanno già avuto esperienza con la programmazione alle superiori. Personalmente non ho frequentato le lezioni, se sai programmare è semplice. Il professore del corso Alberto Leporati è molto bravo! 
 * **Tips & tricks**: i laboratori li ho trovati utili per consolidare le idee di Java chiedendo aiuto ogni tanto al professore che presidiava il laboratorio. Per passare questo tipo di esami credo sia utile fare più pratica al computer possibile sui testi degli esami passati.
 
 ### Fondamenti dell'Informatica
-* Questo corso insegna le basi della matematica discreta (insiemi, relazioni, )
-* **Tips & tricks**: credo che alla maggior parte degli studenti non piace il libro di testo adottato "Strutture, logica, linguaggi" di Aiello perchè lo reputa incomprensibile e pieno di errori. 
-* Il mio consiglio è quello di utilizzare il libro "Discrete Mathematics Using a Computer | John O'Donnell" disponibile in biblioteca gratuitamente. Non avendo frequentato il primo semestre, grazie a quel libro finalmente sono riuscito ad apprezzare la materia.
+* Questo corso insegna le basi della matematica discreta (insiemi, relazioni, funzioni, logica).
+* **Così-così**: anche se credo che la maggior parte degli studenti la passi al primo anno, non è così facile come sembra. Ci sono cose di logica che vanno capite bene, quindi credo sia bene frequentare almeno le esercitazioni.
+* **Tips & tricks**: a me non piace il libro di testo adottato "Strutture, logica, linguaggi" di Aiello perchè non lo capisco e ci sono alcuni errori di stampa. Studia su "Discrete Mathematics Using a Computer | John O'Donnell" (disponibile in biblioteca gratuitamente) e sui testi degli esami passati.
 
 # Tips
 
