@@ -3,11 +3,11 @@
 #### Perchè questa mini-guida
 Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (Laurea Triennale) all'Università degli Studi di Milano-Bicocca. Ho pensato che potesse essere utile anche ad altre matricole quindi ho deciso di pubblicarla. Studenti degli anni successivi, se avete altri consigli siete benvenuti a contribuire creando pull request.
 
-## Corsi
+# Corsi
 
 ### Programmazione 1
-* **Pass rate**: più di 80% degli studenti la trovano facile da passare al primo tentativo perchè ha già avuto esperienza con la programmazione. Personalmente non ho frequentato le lezioni, se si hanno già le basi della programmazione non dovrebbe essere impegnativa. Molti 
-
+* Il corso di Programmazione 1 insegna le basi della programmazione in Java.
+* **Difficoltà**: più dell'80% degli studenti la trovano facile da passare al primo tentativo perchè ha già avuto esperienza con la programmazione alle superiori. Personalmente non ho frequentato le lezioni, se sai programmare è semplice. Il professore del corso Alberto Leporati è molto bravo! 
 * **Tips & tricks**: I laboratori li ho trovati molto utili per consolidare le idee di Java e il libro è fatto bene.
 
 # Tips
@@ -28,7 +28,7 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 * Ogni corso del primo anno ha un gruppo Telegram dedicato autogestiti da noi studenti in cui scambiamo appunti, documenti, file e ci aiutiamo a vicenda :) 
 * Personalmente alcuni gruppi Telegram li ho trovati quasi fondamentali per passare un esame per l'aiuto ricevuto. Molto molto utile unirsi! 
 
-# Punti critici
+# Punti deboli
 #### Risultati esami
 * Alcuni professori pubblicano i risultati degli esami anche con un mese di ritardo dalla data dell'esame oppure a poche ore prima degli esami orali.
 * Alcuni professori, in occasione di scioperi, comunicano se l'esame si terrà o meno il giorno stesso dell'esame.
