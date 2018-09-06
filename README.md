@@ -5,10 +5,12 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 
 # Corsi
 
+## Prima parte (ottobre-febbraio)
+
 ### Programmazione 1
 * Questo corso insegna le basi della programmazione in Java (per esempio variabili, cicli, if-else, array).
 * **Easy**: più dell'80% lo passano al primo tentativo. Molti hanno già avuto esperienza con la programmazione alle superiori e le lezioni sono ben fatte. È previsto un orale (studiarsi bene: heap e stack).
-* I **laboratori** li ho trovati utili per chiedere aiuto di tanto in tanto al professore che presidiava il laboratorio. Per passare questo tipo di esami credo sia utile fare più pratica al computer possibile sui testi degli esami passati.
+* I **laboratori** li ho trovati utili per chiedere aiuto di tanto in tanto al professore che presidiava il laboratorio. Per passare questo tipo di esame credo sia utile fare più pratica al computer possibile sui testi degli esami passati.
 
 ### Fondamenti dell'Informatica
 * Questo corso insegna le basi della matematica discreta (insiemi, relazioni, funzioni, logica).
@@ -37,6 +39,10 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 #### Gruppi Telegram
 * Ogni corso del primo anno ha un gruppo Telegram dedicato autogestiti da noi studenti in cui scambiamo appunti, documenti, file e ci aiutiamo a vicenda :) 
 * Personalmente alcuni gruppi Telegram li ho trovati quasi fondamentali per passare un esame per l'aiuto ricevuto. Molto molto utile unirsi! 
+
+#### Le sessioni di esame
+* Si possono dare gli esami in una delle cinque sessioni di esami: gennaio, febbraio, giugno, luglio e settembre. Per iscriversi ad un esame è necessario prenotarsi in tempo su [esse3](https://s3w.si.unimib.it/esse3/Start.do).
+* Nell'area personale [esse3](https://s3w.si.unimib.it/esse3/Start.do) è possibile fare tutte le cose "amministrative": visualizzare il proprio libretto con gli esami passati e da dare, pagare le tasse, iscriversi agli esami e ad Erasmus.
 
 # Punti deboli
 #### Risultati esami
