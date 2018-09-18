@@ -26,9 +26,21 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 
 ### Algebra Lineare e Geometria Analitica
 * Questo corso insegna Algebra Lineare (matrici, vettori, spazi vettoriali, elementi geometrici)
-* **Molto difficile**: di per sè gli argomenti del corso sono piuttosto semplici, il libro adottato è fatto bene (compreso l'eserciziario). Il problema secondo me è la modalità dell'esame: è fatto al computer, non si può tornare indietro e le domande sono davvero toste (non-standard, è necessario padroneggiare al meglio la materia). Meno del 20% delle matricole lo passa il primo anno.
+* **Molto difficile**: di per sè gli argomenti del corso sono piuttosto semplici, il libro adottato è fatto bene (compreso l'eserciziario). Il problema secondo me è la modalità dell'esame: è fatto al computer, non si può tornare indietro e le domande richiedono di padroneggiare al meglio la materia. Meno del 20% delle matricole lo passa il primo anno.
 
-# Tips
+### Algoritmi e Strutture Dati
+* Questo corso insegna le basi degli algoritmi (saper scrivere un algoritmo elementare, tecniche divide-et-impera, complessità asintotica).
+* **Facile**: l'esame è sempre strutturato nello stesso modo, stessi esercizi. Prof. Zandron molto bravo. Laboratorio completamente inutile se siete solamente interessati a passare il corso.
+
+### Architettura degli Elaboratori
+* Questo corso insegna le basi dei computer (CPU, hardware, Assembly)
+* **Difficile**: non tanto l'esame ma la modalità dell'esame.
+
+### Programmazione 2
+* Questo corso insegna concetti più avanzati della programmazione in Java (input/output, strutture dati, ecc.).
+* **Difficoltà media**
+
+# Consigli
 
 #### Divisone AL/MZ
 * Tutti i corsi del primo anno sono divisi in due sezioni per gestire al meglio lo spazio nelle aule. Gli studenti con cognome che va dalla A alla L fanno parte della sezione AL, mentre gli altri in quella MZ. È possibile frequentare frequentare entrambe le sezioni, specialmente se il professore di un'altra materia insegna meglio il corso.
