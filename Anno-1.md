@@ -63,7 +63,7 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 
 #### Le sessioni di esame
 * Si possono dare gli esami in una delle cinque sessioni di esami: gennaio, febbraio, giugno, luglio e settembre. Per iscriversi ad un esame è necessario prenotarsi in tempo su [esse3](https://s3w.si.unimib.it/esse3/Start.do).
-* Nell'area personale [esse3](https://s3w.si.unimib.it/esse3/Start.do) è possibile fare tutte le cose "amministrative": visualizzare il proprio libretto con gli esami passati e da dare, pagare le tasse, iscriversi agli esami e ad Erasmus.
+* Nell'area personale [esse3](https://s3w.si.unimib.it/esse3/Start.do) è possibile fare tutte le cose "amministrative": visualizzare il proprio libretto con gli esami passati e da dare, pagare le tasse, iscriversi agli esami e ad Erasmus. [Iscriversi ad un esame, video-guida](https://www.youtube.com/watch?v=gazTo4jqM8Q&feature=youtu.be%22+%5Ct+%22_blank)
 
 #### Sabato
 * L'università è aperta anche il sabato! Nei momenti di disperazione con gli esami mi "rifugiavo" in università anche di Sabato ;) Se si è da soli, al mattino la biblioteca di U6 secondo piano è aperta fino al primo pomeriggio, poi si può studiare negli edifici U6 e U7 aperti fino alle 18.
