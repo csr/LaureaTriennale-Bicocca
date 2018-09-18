@@ -105,23 +105,6 @@ https://t.me/joinchat/CjCDKj1zux6eVuHyvqupZA
 - Linux User Group Bicocca 
 @unixmib
 
-Primo Anno
-- Analisi Matematica
-https://t.me/joinchat/AAAAAENrgvplKuOHcB6hww
-https://t.me/joinchat/Ey-NzUJNY2bITPkdBqQBjw
-- Complementi di Matematica
-https://t.me/joinchat/DQQKpUR1q-5ib7yBY2mXTg
-- Architettura
-https://t.me/joinchat/AAAAAD61MRhrLSANbpTSXQ
-- Algoritmi 1
-https://t.me/joinchat/AAAAAEIEfep9CF3wbsa65w
-- Fondamenti
-https://t.me/joinchat/AAAAAEMTM5r6nzdJohrHjA
-- Programmazione 1
-https://t.me/programmazione1
-- Programmazione 2
-@UnimibProg2
-
 - 1° anno
 https://www.dropbox.com/sh/bzuykj8zt56tj36/AABqytEXmpaZSIsWdb2oNItva?dl=0
 
