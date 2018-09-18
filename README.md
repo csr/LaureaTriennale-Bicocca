@@ -5,7 +5,7 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 
 # Corsi
 
-## Prima parte (ottobre-febbraio)
+## Lezioni ottobre-dicembre
 
 ### Programmazione 1
 * Questo corso insegna le basi della programmazione in Java (per esempio variabili, cicli, if-else, array).
@@ -14,13 +14,19 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 
 ### Fondamenti dell'Informatica
 * Questo corso insegna le basi della matematica discreta (insiemi, relazioni, funzioni, logica).
-* **Così-così**: anche se credo che la maggior parte degli studenti la passi al primo anno, non è così facile come sembra. Ci sono cose di logica che vanno capite bene, quindi credo sia bene frequentare almeno le esercitazioni.
+* **Difficoltà media**: anche se credo che la maggior parte degli studenti la passi al primo anno, non è così facile come sembra. Ci sono cose di logica che vanno capite bene, quindi credo sia bene frequentare almeno le esercitazioni.
 * A me non piace il libro di testo adottato "Strutture, logica, linguaggi" di Aiello perchè non lo capisco e ci sono alcuni errori di stampa. Studia su "Discrete Mathematics Using a Computer | John O'Donnell" (disponibile in biblioteca gratuitamente) e sui testi degli esami passati.
 
 ### Analisi 1
 * Questo corso insegna Analisi Matematica 1 (insiemi, funzioni, limiti, derivate, integrali).
-* **Hard**: secondo me uno dei più difficili del primo anno, meno della metà degli studenti secondo me riesce a passarlo il primo anno. Studiare tanto e fare taaaanti esercizi :)
+* **Difficile**: secondo me uno dei più difficili del primo anno, meno della metà degli studenti riesce a passarlo il primo anno. Studiare tanto e fare taaaanti esercizi :)
 * Testi consigliati: evitare il libro adottato dal corso di Pearson e studiare sugli ottimi libri di Marco Bramanti (molti studenti che conosco hanno passato così): PreCalculus, Analisi Matematica 1 e Esercitazioni di Matematica 1 (tutti disponibili gratuitamente in biblioteca ;)
+
+## Lezioni fine febbraio-giugno
+
+### Algebra Lineare e Geometria Analitica
+* Questo corso insegna Algebra Lineare (matrici, vettori, spazi vettoriali, elementi geometrici)
+* **Molto difficile**: di per sè gli argomenti del corso sono piuttosto semplici, il libro adottato è fatto bene (compreso l'eserciziario). Il problema secondo me è la modalità dell'esame: è fatto al computer, non si può tornare indietro e le domande sono davvero toste (non-standard, è necessario padroneggiare al meglio la materia).
 
 # Tips
 
