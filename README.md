@@ -24,6 +24,9 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 
 # Tips
 
+#### Divisone AL/MZ
+* Tutti i corsi del primo anno sono divisi in due sezioni per gestire al meglio lo spazio nelle aule. Gli studenti con cognome che va dalla A alla L fanno parte della sezione AL, mentre gli altri in quella MZ. È possibile frequentare frequentare entrambe le sezioni, specialmente se il professore di un'altra materia insegna meglio il corso.
+
 #### Biblioteca
 * Non serve spendere un centesimo per acquistare i libri adottati dal corso perchè sono disponibili gratuitamente alla Biblioteca di Scienze al primo piano dell'edificio U2. Puoi prenderli in prestito qui sulla piattaforma [Curisione](https://eds.a.ebscohost.com/eds/search/basic?vid=0&sid=ad73d8d0-bb49-4da7-a95c-e96ac16a922a%40sessionmgr4007). Ti arriverà un'email che ti avvisa quando il libro è disponibile per essere ritirato.
 * Il prestito dura 1 mese, però se nessun altro studente ha prenotato lo stesso libro è possibile rinnovare il proprio prestito di un altro mese nell'area personale. Non puoi sottolineare, evidenziare, scrivere sui libri presi in prestito. 
