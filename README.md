@@ -26,7 +26,7 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 
 ### Algebra Lineare e Geometria Analitica
 * Questo corso insegna Algebra Lineare (matrici, vettori, spazi vettoriali, elementi geometrici)
-* **Molto difficile**: di per sè gli argomenti del corso sono piuttosto semplici, il libro adottato è fatto bene (compreso l'eserciziario). Il problema secondo me è la modalità dell'esame: è fatto al computer, non si può tornare indietro e le domande sono davvero toste (non-standard, è necessario padroneggiare al meglio la materia).
+* **Molto difficile**: di per sè gli argomenti del corso sono piuttosto semplici, il libro adottato è fatto bene (compreso l'eserciziario). Il problema secondo me è la modalità dell'esame: è fatto al computer, non si può tornare indietro e le domande sono davvero toste (non-standard, è necessario padroneggiare al meglio la materia). Meno del 20% delle matricole lo passa il primo anno.
 
 # Tips
 
