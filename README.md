@@ -73,3 +73,55 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 * Alcuni professori, in occasione di scioperi, comunicano se l'esame si terrà o meno il giorno stesso dell'esame.
 * Il Wifi dell'Ateneo non funziona bene nella maggior parte delle aule.
 * Alcuni corsi/laboratori sono proprio spiegati male ;) In questi casi consiglio di frequentare i primi giorni e vedere se piace, altrimenti studiare da appunti e/o frequentare le esercitazioni.
+
+# Link utili/gruppi Telegram
+
+Mega appunti:
+https://mega.nz/#F!LoRHWSQK!yaWdV5a478P5mcrOwHT3Jg
+
+PDF Libri:
+https://drive.google.com/drive/folders/0B9zzSUrNUoLsSnp1U056M0s3T28
+
+Gruppi Telegram correlati:
+Generali:
+- 2018/2019
+@UnimibInfo
+- MZ 2018/2019
+@UnimibInfoMZ
+- AL 2018/2019
+@UnimibInfoAL
+- 2017/2018
+@unimib_info_matricole2018
+-Anno 2016/2017
+https://t.me/joinchat/CBUs4kDRbX0siOhc4prCRA
+- AL 2016/2017
+@infoALunimib1617
+- MZ 2016/2017
+https://telegram.me/joinchat/CBUs4kDRbX2IUw0dnTKzVQ
+- 2015/2016
+https://t.me/joinchat/CjCDKj1zux6eVuHyvqupZA
+- 2014/2015
+@unimibCS
+- Linux User Group Bicocca 
+@unixmib
+
+Primo Anno
+- Analisi Matematica
+https://t.me/joinchat/AAAAAENrgvplKuOHcB6hww
+https://t.me/joinchat/Ey-NzUJNY2bITPkdBqQBjw
+- Complementi di Matematica
+https://t.me/joinchat/DQQKpUR1q-5ib7yBY2mXTg
+- Architettura
+https://t.me/joinchat/AAAAAD61MRhrLSANbpTSXQ
+- Algoritmi 1
+https://t.me/joinchat/AAAAAEIEfep9CF3wbsa65w
+- Fondamenti
+https://t.me/joinchat/AAAAAEMTM5r6nzdJohrHjA
+- Programmazione 1
+https://t.me/programmazione1
+- Programmazione 2
+@UnimibProg2
+
+- 1° anno
+https://www.dropbox.com/sh/bzuykj8zt56tj36/AABqytEXmpaZSIsWdb2oNItva?dl=0
+
