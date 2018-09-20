@@ -10,23 +10,23 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 ### Programmazione 1
 * Questo corso insegna le basi della programmazione in Java (per esempio variabili, cicli, if-else, array).
 * **Easy**: più dell'80% lo passano al primo tentativo. Molti hanno già avuto esperienza con la programmazione alle superiori e le lezioni sono ben fatte. È previsto un orale (studiarsi bene: heap e stack).
-* I **laboratori** li ho trovati utili per chiedere aiuto di tanto in tanto al professore che presidiava il laboratorio. Per passare questo tipo di esame credo sia utile fare più pratica al computer possibile sui testi degli esami passati.
+* I **laboratori** li ho trovati utili per chiedere aiuto di tanto in tanto al professore che presidiava il laboratorio (purtroppo in alcuni turni sono presenti tutor totalmente inadatti al ruolo). Per passare questo tipo di esame credo sia utile fare più pratica al computer possibile sui testi degli esami passati.
 
 ### Fondamenti dell'Informatica
 * Questo corso insegna le basi della matematica discreta (insiemi, relazioni, funzioni, logica).
 * **Difficoltà media**: anche se credo che la maggior parte degli studenti la passi al primo anno, non è così facile come sembra. Ci sono cose di logica che vanno capite bene, quindi credo sia bene frequentare almeno le esercitazioni.
-* A me non piace il libro di testo adottato "Strutture, logica, linguaggi" di Aiello perchè non lo capisco e ci sono alcuni errori di stampa. Studia su "Discrete Mathematics Using a Computer | John O'Donnell" (disponibile in biblioteca gratuitamente) e sui testi degli esami passati.
+* A me non piace il libro di testo adottato "Strutture, logica, linguaggi" di Aiello perchè non lo capisco e ci sono alcuni errori di stampa. Studia su "Discrete Mathematics Using a Computer | John O'Donnell" (disponibile in biblioteca gratuitamente) e sui testi degli esami passati. Le slide del corso unite alle esercitazioni sono sufficienti sia per la parte scritta che per l'esame orale.
 
 ### Analisi 1
 * Questo corso insegna Analisi Matematica 1 (insiemi, funzioni, limiti, derivate, integrali).
 * **Difficile**: secondo me uno dei più difficili del primo anno, meno della metà degli studenti riesce a passarlo il primo anno. Studiare tanto e fare taaaanti esercizi :)
-* Testi consigliati: evitare il libro adottato dal corso di Pearson e studiare sugli ottimi libri di Marco Bramanti (molti studenti che conosco hanno passato così): PreCalculus, Analisi Matematica 1 e Esercitazioni di Matematica 1 (tutti disponibili gratuitamente in biblioteca ;)
+* Testi consigliati: evitare il libro adottato dal corso di Pearson e studiare sugli ottimi libri di Marco Bramanti (molti studenti che conosco hanno passato così): PreCalculus, Analisi Matematica 1 e Esercitazioni di Matematica 1 (tutti disponibili gratuitamente in biblioteca). Consiglio anche il testo di Paolo Soardi (docente della Bicocca): Analisi Matematica 1, un testo un poco più avanzato ma parecchio completo e il testo di esercizi (che comprende parecchie soluzioni passo a passo) di M. Amar e A. M. Bersani: Analisi Matematica 1, esercizi e richiami di teoria.
 
 ## Lezioni fine febbraio-giugno
 
 ### Algebra Lineare e Geometria Analitica
 * Questo corso insegna Algebra Lineare (matrici, vettori, spazi vettoriali, elementi geometrici)
-* **Molto difficile**: di per sè gli argomenti del corso sono piuttosto semplici, il libro adottato è fatto bene (compreso l'eserciziario). Il problema secondo me è la modalità dell'esame: è fatto al computer, non si può tornare indietro e le domande richiedono di padroneggiare al meglio la materia. Meno del 20% delle matricole lo passa il primo anno.
+* **Molto difficile**: di per sè gli argomenti del corso sono piuttosto semplici, il libro adottato è fatto bene (compreso l'eserciziario). Comodo anche l'eserciziario di Claretta Carrara facilmente trovabile in pdf. Il problema secondo me è la modalità dell'esame: è fatto al computer, non si può tornare indietro e le domande richiedono di padroneggiare al meglio la materia. Nell'esame totale la diffioltà maggiore è superare il primo step con le 10 domande a crocette (+3 punti per una risposta corretta e -1 per una errata) mentre la parte di esercizi risulta più semplice (per superarla basta aver seguito bene le esercitazioni e aver fatto pratica, gli esercizi sono quasi sempre della stessa tipologia). Meno del 20% delle matricole lo passa il primo anno.
 
 ### Algoritmi e Strutture Dati
 * Questo corso insegna le basi degli algoritmi (saper scrivere un algoritmo elementare, tecniche divide-et-impera, complessità asintotica).
@@ -34,10 +34,10 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 
 ### Architettura degli Elaboratori
 * Questo corso insegna le basi dei computer (CPU, hardware, Assembly)
-* **Difficile**: non tanto l'esame ma la modalità dell'esame.
+* **Difficile**: non tanto l'esame ma la modalità dell'esame. Il libro (versione in inglese) è molto buono anche se purtroppo manca di alcuni argomenti come l'I/O.
 
 ### Programmazione 2
-* Questo corso insegna concetti più avanzati della programmazione in Java (input/output, strutture dati, ecc.).
+* Questo corso insegna concetti più avanzati della programmazione in Java (ereditarietà, polimorfismo, input/output, strutture dati, ecc.).
 * **Difficoltà media**
 
 # Consigli
