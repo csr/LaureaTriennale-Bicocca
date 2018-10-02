@@ -108,3 +108,7 @@ https://t.me/joinchat/CjCDKj1zux6eVuHyvqupZA
 - 1° anno
 https://www.dropbox.com/sh/bzuykj8zt56tj36/AABqytEXmpaZSIsWdb2oNItva?dl=0
 
+- Appunti di uno studente:
+https://github.com/dlcgold/Appunti
+
+
