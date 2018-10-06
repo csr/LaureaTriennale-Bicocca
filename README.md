@@ -10,11 +10,13 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 ### Programmazione 1
 * Questo corso insegna le basi della programmazione in Java (per esempio variabili, cicli, if-else, array).
 * **Easy**: più dell'80% lo passano al primo tentativo. Molti hanno già avuto esperienza con la programmazione alle superiori e le lezioni sono ben fatte. È previsto un orale (studiarsi bene: heap e stack).
+Le lezioni sono molte buone sia in AL, tenute dal ottimo professore Leporati, sia in MZ, tenute dal professor Ciucci.
 * I **laboratori** li ho trovati utili per chiedere aiuto di tanto in tanto al professore che presidiava il laboratorio (purtroppo in alcuni turni sono presenti tutor totalmente inadatti al ruolo). Per passare questo tipo di esame credo sia utile fare più pratica al computer possibile sui testi degli esami passati.
 
 ### Fondamenti dell'Informatica
-* Questo corso insegna le basi della matematica discreta (insiemi, relazioni, funzioni, logica).
+* Questo corso insegna le basi della matematica discreta (insiemi, relazioni, funzioni) e della logica.
 * **Difficoltà media**: anche se credo che la maggior parte degli studenti la passi al primo anno, non è così facile come sembra. Ci sono cose di logica che vanno capite bene, quindi credo sia bene frequentare almeno le esercitazioni.
+le lezioni in MZ effettuate dal prof. Moscato sono state fantastiche, anche se in qualche frangente é stato leggermente poco formale mentre le esercitazioni tenute da Palmonari erano fantastiche e ha permesso di far comprendere i concetti spiegati in maniera teorica.
 * A me non piace il libro di testo adottato "Strutture, logica, linguaggi" di Aiello perchè non lo capisco e ci sono alcuni errori di stampa. Studia su "Discrete Mathematics Using a Computer | John O'Donnell" (disponibile in biblioteca gratuitamente) e sui testi degli esami passati. Le slide del corso unite alle esercitazioni sono sufficienti sia per la parte scritta che per l'esame orale.
 
 ### Analisi 1
@@ -25,25 +27,30 @@ Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (
 ## Lezioni fine febbraio-giugno
 
 ### Algebra Lineare e Geometria Analitica
-* Questo corso insegna Algebra Lineare (matrici, vettori, spazi vettoriali, elementi geometrici)
-* **Molto difficile**: di per sè gli argomenti del corso sono piuttosto semplici, il libro adottato è fatto bene (compreso l'eserciziario). Comodo anche l'eserciziario di Claretta Carrara facilmente trovabile in pdf. Il problema secondo me è la modalità dell'esame: è fatto al computer, non si può tornare indietro e le domande richiedono di padroneggiare al meglio la materia. Nell'esame totale la diffioltà maggiore è superare il primo step con le 10 domande a crocette (+3 punti per una risposta corretta e -1 per una errata) mentre la parte di esercizi risulta più semplice (per superarla basta aver seguito bene le esercitazioni e aver fatto pratica, gli esercizi sono quasi sempre della stessa tipologia). Meno del 20% delle matricole lo passa il primo anno.
+* Questo corso insegna Algebra Lineare (matrici, vettori, spazi vettoriali) e la geometria analitca nel piano e nello spazio.
+* **Molto difficile**: di per sè gli argomenti del corso sono piuttosto semplici, il libro adottato è a mio parere abbastanza scarno (compreso l'eserciziario). Comodo anche l'eserciziario di Claretta Carrara facilmente trovabile in pdf.
+Altri libri consigliati sono il libro di Schlesinger e il libro linearAlgebra(il PDF si trova facilmente).
+Il problema secondo me è la modalità dell'esame: è fatto al computer, non si può tornare indietro e le domande richiedono di padroneggiare al meglio la materia. Nell'esame totale la diffioltà maggiore è superare il primo step con le 10 domande a crocette (+3 punti per una risposta corretta e -1 per una errata) mentre la parte di esercizi risulta più semplice (per superarla basta aver seguito bene le esercitazioni e aver fatto pratica, gli esercizi sono quasi sempre della stessa tipologia). Meno del 20% delle matricole lo passa il primo anno.
 
 ### Algoritmi e Strutture Dati
-* Questo corso insegna le basi degli algoritmi (saper scrivere un algoritmo elementare, tecniche divide-et-impera, complessità asintotica).
-* **Facile**: l'esame è sempre strutturato nello stesso modo, stessi esercizi. Prof. Zandron molto bravo. Laboratorio completamente inutile se siete solamente interessati a passare il corso.
+* Questo corso insegna le basi degli algoritmi (saper scrivere un algoritmo elementare, tecniche divide-et-impera, complessità asintotica) e le strutture dati elementari.
+* **Facile**: l'esame è sempre strutturato nello stesso modo, stessi esercizi. Prof. Zandron molto bravo mentre la professoressa Bonizzoni molto confusa e poco chiara per cui per MZ consiglio di seguire AL oppure di studiare dal libro. Laboratorio completamente inutile se siete solamente interessati a passare il corso.
+Consiglio per una maggiore padronanza della materia di guardare le lezioni svolte al MIT, disponibili cercando Mit Opencourseware, e le lezioni svolte all'universitá di Trento dal prof MONTESOR, disponibili cercando algoritmi e strutture dati Trento.
 
 ### Architettura degli Elaboratori
 * Questo corso insegna le basi dei computer (CPU, hardware, Assembly)
-* **Difficile**: non tanto l'esame ma la modalità dell'esame. Il libro (versione in inglese) è molto buono anche se purtroppo manca di alcuni argomenti come l'I/O.
+* **Difficile**: non tanto l'esame ma la modalità dell'esame. Il libro (versione in inglese) è molto buono anche se purtroppo manca  l'I/O e il prof vi renderá tutto impossibile al fine di rompere le scatole agli studenti.
+Consiglio di seguire le lezioni di Sorrenti mentre non consiglio di seguire la Raibulet e Ferretti.
 
 ### Programmazione 2
 * Questo corso insegna concetti più avanzati della programmazione in Java (ereditarietà, polimorfismo, input/output, strutture dati, ecc.).
 * **Difficoltà media**
+Le lezioni sono molto ben tenute e introduce la OOP e le principali librerie standard anche se a mio avviso é una pecca non aver affrontato le Interfacce Grafiche e i principali Design Pattern.
 
 # Consigli
 
 #### Divisone AL/MZ
-* Tutti i corsi del primo anno sono divisi in due sezioni per gestire al meglio lo spazio nelle aule. Gli studenti con cognome che va dalla A alla L fanno parte della sezione AL, mentre gli altri in quella MZ. È possibile frequentare frequentare entrambe le sezioni, specialmente se il professore di un'altra materia insegna meglio il corso.
+* Tutti i corsi del primo anno sono divisi in due sezioni per gestire al meglio lo spazio nelle aule. Gli studenti con cognome che va dalla A alla L fanno parte della sezione AL, mentre gli altri in quella MZ. È possibile frequentare frequentare entrambe le sezioni, specialmente se il professore di un'altra materia insegna meglio il corso, quindi MZ valutate di seguire AL che ha spesso professori migliori.
 
 #### Biblioteca
 * Non serve spendere un centesimo per acquistare i libri adottati dal corso perchè sono disponibili gratuitamente alla Biblioteca di Scienze al primo piano dell'edificio U2. Puoi prenderli in prestito qui sulla piattaforma [Curisione](https://eds.a.ebscohost.com/eds/search/basic?vid=0&sid=ad73d8d0-bb49-4da7-a95c-e96ac16a922a%40sessionmgr4007). Ti arriverà un'email che ti avvisa quando il libro è disponibile per essere ritirato.
