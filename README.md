@@ -1,8 +1,5 @@
 # Laurea Triennale in Informatica (I anno)
 
-#### Perchè questa mini-guida
-Scrivo questa guida per un amico che frequenterà il primo anno di Informatica (Laurea Triennale) all'Università degli Studi di Milano-Bicocca. Studenti degli anni successivi, se volete aggiungere qualcosa siete benvenuti a contribuire creando pull request.
-
 # Corsi
 
 ## Lezioni ottobre-dicembre
