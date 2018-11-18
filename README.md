@@ -1,4 +1,10 @@
-# Laurea Triennale in Informatica (I anno)
+# Corso di Laurea Triennale in Informatica (I anno) all'Università degli Studi di Milano-Bicocca
+
+Ciao a tutti, siamo studenti del corso di Informatica di Bicocca e questa è una breve guida per affrontare al meglio il corso :)
+
+## Test di ammissione
+* Il corso di Informatica è un corso a numero programmato, ovvero è necessario affrontare un test di ammissione per poter accedervi. Il test consiste solitamente di una ventina di domande sulla matematica di base (polinomi, potenze, logaritmi). Potete trovare un esempio [qui](http://www.conscienze.it/public/[TEST]/TestSelezione100908.pdf). 
+* Per prepararmi al test ho studiato per una settimana su Alpha Test Matematica.
 
 # Corsi
 
@@ -6,7 +12,7 @@
 
 ### Programmazione 1
 * Questo corso insegna le basi della programmazione in Java (per esempio variabili, cicli, if-else, array).
-* **Easy**: più dell'80% lo passano al primo tentativo. Molti hanno già avuto esperienza con la programmazione alle superiori e le lezioni sono ben fatte. È previsto un orale (studiarsi bene: heap e stack).
+* **Facile**: più dell'80% lo passano al primo tentativo. Molti hanno già avuto esperienza con la programmazione alle superiori e le lezioni sono ben fatte. È previsto un orale (studiarsi bene: heap e stack).
 Le lezioni sono molte buone sia in AL, tenute dal ottimo professore Leporati, sia in MZ, tenute dal professor Ciucci.
 * I **laboratori** li ho trovati utili per chiedere aiuto di tanto in tanto al professore che presidiava il laboratorio (purtroppo in alcuni turni sono presenti tutor totalmente inadatti al ruolo). Per passare questo tipo di esame credo sia utile fare più pratica al computer possibile sui testi degli esami passati.
 
