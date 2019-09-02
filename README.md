@@ -85,10 +85,10 @@ Le lezioni sono molto ben tenute e introduce la OOP e le principali librerie sta
 * Alcuni corsi/laboratori sono proprio spiegati male ;) In questi casi consiglio di frequentare i primi giorni e vedere se piace, altrimenti studiare da appunti e/o frequentare le esercitazioni.
 
 # Appunti di Studenti
-Appunti Davide Cozzi: https://github.com/dlcgold/Appunti
-Appunti Jacopo De Angelis: https://github.com/JacopoDeAngelis/Appunti-universitari
-Appunti Sofia Amarú: https://github.com/amarusofia/Appunti-universitari
-Appunti Ilaria Battiston: https://github.com/ila/class-notes
-Appunti Marco Natali: https://github.com/bigboss98/appunti
+* Appunti Davide Cozzi: https://github.com/dlcgold/Appunti
+* Appunti Jacopo De Angelis: https://github.com/JacopoDeAngelis/Appunti-universitari
+* Appunti Sofia Amarú: https://github.com/amarusofia/Appunti-universitari
+* Appunti Ilaria Battiston: https://github.com/ila/class-notes
+* Appunti Marco Natali: https://github.com/bigboss98/appunti
 
 
